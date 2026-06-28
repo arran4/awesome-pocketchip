@@ -164,15 +164,6 @@ PICO-8 is proprietary/commercial software. Link only to legitimate PICO-8 resour
 
 ---
 
-## Repo-Local Notes
-
-Local notes are kept separate from the external link index:
-
-* [`docs/notes.md`](docs/notes.md) - firmware type notes, FEL notes, flashing caveats, troubleshooting, contribution checklist.
-* [`docs/link-policy.md`](docs/link-policy.md) - optional policy for preferred link types and archive/mirror handling.
-
----
-
 ## Contributing
 
 Contributions are welcome.
@@ -197,7 +188,7 @@ When adding a resource, include:
 * URL
 * short description
 * whether it is official, mirrored, archived, community-maintained, or experimental
-* date tested, if known
+* date tested, if known (in commit message & pr)
 
 ---
 
