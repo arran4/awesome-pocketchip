@@ -11,6 +11,7 @@ This repository prefers linking to primary sources, mirrors, archives, community
 * [Flashing Tools](#flashing-tools)
 * [Post-Flash Fixes](#post-flash-fixes)
 * [Debian / Linux Repair](#debian--linux-repair)
+* [Launchers and Interfaces](#launchers-and-interfaces)
 * [Alternative Operating Systems](#alternative-operating-systems)
 * [Hardware Documentation](#hardware-documentation)
 * [Official and Historical Archives](#official-and-historical-archives)
@@ -99,6 +100,15 @@ See [`docs/notes.md`](docs/notes.md#fel-mode) for short local notes on FEL mode 
 * [billys_chips.md](https://gist.github.com/billyargh/945616a654aee25d657beb1278a604d9)
 * [How to get (re)started with a (Pocket)C.H.I.P.](https://gist.github.com/joshgiesbrecht/9f2857f64213d7c6f9480209b8953a14)
 * [CHIP Flashing Guide - July 2020](https://www.reddit.com/r/ChipCommunity/comments/htkasm/chip_flashing_guide_july_2020/)
+
+---
+
+## Launchers and Interfaces
+
+* [PocketCHIP Launcher (Marshmallow Edition)](https://github.com/o-marshmallow/PocketCHIP-pocket-home)
+  Community-maintained fork of the PocketCHIP home screen with an apt repository and easier compilation.
+* [pocketchip-menu](https://github.com/omgmog/pocketchip-menu)
+  Experimental community-maintained PyGame replacement for the PocketCHIP home launcher, designed for Debian 11.
 
 ---
 
