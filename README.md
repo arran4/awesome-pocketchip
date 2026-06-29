@@ -94,7 +94,7 @@ See [`docs/notes.md`](docs/notes.md#fel-mode) for short local notes on FEL mode 
 
 * [JF Possibilities Debian Package Mirror](https://chip.jfpossibilities.com/chip/debian/)
 * [arran4/pocketchip-apt-rescue](https://github.com/arran4/pocketchip-apt-rescue)
-  APT rescue proxy for the Next Thing Co. PocketC.H.I.P. and C.H.I.P.
+  Community-maintained APT rescue proxy for the Next Thing Co. PocketC.H.I.P. and C.H.I.P.
 * [CHIP Stuff - Max Glenister](https://blog.omgmog.net/post/chip-stuff/)
 * [billys_chips.md](https://gist.github.com/billyargh/945616a654aee25d657beb1278a604d9)
 * [How to get (re)started with a (Pocket)C.H.I.P.](https://gist.github.com/joshgiesbrecht/9f2857f64213d7c6f9480209b8953a14)
