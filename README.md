@@ -106,9 +106,9 @@ See [`docs/notes.md`](docs/notes.md#fel-mode) for short local notes on FEL mode 
 ## Launchers and Interfaces
 
 * [PocketCHIP Launcher (Marshmallow Edition)](https://github.com/o-marshmallow/PocketCHIP-pocket-home)
-  Community-maintained fork of the PocketCHIP home screen with an apt repository and easier compilation.
+  Community-maintained fork of the PocketCHIP home screen with an APT repository and easier compilation.
 * [pocketchip-menu](https://github.com/omgmog/pocketchip-menu)
-  Experimental community-maintained PyGame replacement for the PocketCHIP home launcher, designed for Debian 11.
+  Experimental community-maintained Pygame replacement for the PocketCHIP home launcher, designed for Debian 11.
 
 ---
 
