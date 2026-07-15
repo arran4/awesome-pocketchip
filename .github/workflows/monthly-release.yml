@@ -1,0 +1,50 @@
+name: Monthly Release
+
+on:
+  schedule:
+    - cron: '0 0 1 * *' # Run at midnight on the 1st of every month
+  workflow_dispatch: # Always allow manual triggers for testing
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check for updates in the last month
+        id: check_updates
+        run: |
+          # Calculate the start and end dates of the previous month
+          START_DATE=$(date -d "last month" +'%Y-%m-01')
+          END_DATE=$(date +'%Y-%m-01')
+
+          # Check for commits in that timeframe
+          COMMITS=$(git log --since="$START_DATE" --before="$END_DATE" --oneline)
+
+          if [[ -z "$COMMITS" ]]; then
+            echo "has_updates=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_updates=true" >> $GITHUB_OUTPUT
+            # Set version for release (e.g., 2026.07)
+            echo "VERSION=$(date -d "last month" +'%Y.%m')" >> $GITHUB_ENV
+          fi
+
+      - name: Generate PDF
+        if: steps.check_updates.outputs.has_updates == 'true'
+        run: |
+          # Install dependencies like pandoc or texlive
+          sudo apt-get update && sudo apt-get install -y pandoc texlive-xetex
+          # Generate the document
+          pandoc README.md -o Monthly_Issue.pdf --pdf-engine=xelatex
+
+      - name: Create Release
+        if: steps.check_updates.outputs.has_updates == 'true'
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: v${{ env.VERSION }}
+          name: Issue ${{ env.VERSION }}
+          body: "Monthly release for ${{ env.VERSION }}. Contains updates from the previous month."
+          files: Monthly_Issue.pdf

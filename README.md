@@ -4,6 +4,8 @@ A curated link index for the **Next Thing Co. PocketC.H.I.P.** and **C.H.I.P.** 
 
 This repository prefers linking to primary sources, mirrors, archives, community projects, and external guides rather than duplicating their content. Repo-local notes are kept separately in [`docs/notes.md`](docs/notes.md).
 
+> **Note:** Please consider subscribing to updates using GitHub's **Watch &rarr; Custom &rarr; Releases** feature rather than just starring the repository. We publish monthly releases containing the latest updates!
+
 ## Contents
 
 * [Start Here](#start-here)
