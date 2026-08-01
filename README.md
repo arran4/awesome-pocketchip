@@ -153,273 +153,407 @@ See [`docs/notes.md`](docs/notes.md#fel-mode) for short local notes on FEL mode 
 <summary>Expand to see all official Next Thing Co. repositories</summary>
 
 * [ahoy](https://github.com/nextthingco/ahoy)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [armhf-debootstrap](https://github.com/nextthingco/armhf-debootstrap)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 1 | Open Issues: 0)*
 * [B.O.B.](https://github.com/nextthingco/B.O.B.)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [bgfx](https://github.com/nextthingco/bgfx)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [blink](https://github.com/nextthingco/blink)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 2 | Open Issues: 0)*
 * [buildroot](https://github.com/nextthingco/buildroot)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [bx](https://github.com/nextthingco/bx)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [cdb](https://github.com/nextthingco/cdb)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [chip-backup](https://github.com/nextthingco/chip-backup)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 1 | Open Issues: 0)*
 * [CHIP-boot-repair](https://github.com/nextthingco/CHIP-boot-repair)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [chip-configs](https://github.com/nextthingco/chip-configs)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-07-31 | Stars: 1 | Forks: 0 | Open Issues: 0)*
 * [chip-desktop-configs](https://github.com/nextthingco/chip-desktop-configs)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-07-31 | Stars: 1 | Forks: 0 | Open Issues: 0)*
 * [CHIP-dt-overlays](https://github.com/nextthingco/CHIP-dt-overlays)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-19 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [chip-exit](https://github.com/nextthingco/chip-exit)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-07-31 | Stars: 1 | Forks: 0 | Open Issues: 0)*
 * [chip-flasher](https://github.com/nextthingco/chip-flasher)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-07-31 | Stars: 16 | Forks: 11 | Open Issues: 0)*
 * [CHIP-Hardware](https://github.com/nextthingco/CHIP-Hardware)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 5 | Forks: 0 | Open Issues: 0)*
 * [CHIP-hwtest](https://github.com/nextthingco/CHIP-hwtest)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-05 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [chip-input-reset](https://github.com/nextthingco/chip-input-reset)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [chip-libsdl2](https://github.com/nextthingco/chip-libsdl2)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [CHIP-linux](https://github.com/nextthingco/CHIP-linux)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 2 | Forks: 0 | Open Issues: 0)*
 * [chip-mali](https://github.com/nextthingco/chip-mali)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [chip-mali-userspace](https://github.com/nextthingco/chip-mali-userspace)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [chip-metapackage](https://github.com/nextthingco/chip-metapackage)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [chip-nand-scripts](https://github.com/nextthingco/chip-nand-scripts)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 3 | Open Issues: 0)*
 * [chip-os-9-headless](https://github.com/nextthingco/chip-os-9-headless)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 1 | Open Issues: 0)*
 * [chip-os-pro](https://github.com/nextthingco/chip-os-pro)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [CHIP-postchroot](https://github.com/nextthingco/CHIP-postchroot)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [chip-power](https://github.com/nextthingco/chip-power)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-08 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [chip-server](https://github.com/nextthingco/chip-server)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 2 | Open Issues: 0)*
 * [chip-theme](https://github.com/nextthingco/chip-theme)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [CHIP-u-boot](https://github.com/nextthingco/CHIP-u-boot)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [chip_cloner](https://github.com/nextthingco/chip_cloner)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 1 | Open Issues: 0)*
 * [CHIP_IO](https://github.com/nextthingco/CHIP_IO)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [CHIP_Pro-Hardware](https://github.com/nextthingco/CHIP_Pro-Hardware)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [chipcraft](https://github.com/nextthingco/chipcraft)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [chippro-vu-meter](https://github.com/nextthingco/chippro-vu-meter)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [ChippyRuxpin](https://github.com/nextthingco/ChippyRuxpin)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [chiptainer-rovercode](https://github.com/nextthingco/chiptainer-rovercode)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [chiptainer_alexa](https://github.com/nextthingco/chiptainer_alexa)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 3 | Open Issues: 0)*
 * [chiptainer_alpine](https://github.com/nextthingco/chiptainer_alpine)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 1 | Open Issues: 0)*
 * [chiptainer_debian](https://github.com/nextthingco/chiptainer_debian)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 1 | Open Issues: 0)*
 * [chiptainer_example](https://github.com/nextthingco/chiptainer_example)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [chiptainer_octoprint](https://github.com/nextthingco/chiptainer_octoprint)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [chiptainer_python_io](https://github.com/nextthingco/chiptainer_python_io)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 1 | Open Issues: 0)*
 * [chiptainer_spi_accelerometer](https://github.com/nextthingco/chiptainer_spi_accelerometer)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 1 | Open Issues: 0)*
 * [chiptainer_vu_meter](https://github.com/nextthingco/chiptainer_vu_meter)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 1 | Open Issues: 0)*
 * [chiptainer_wifi_access_point](https://github.com/nextthingco/chiptainer_wifi_access_point)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 3 | Open Issues: 0)*
 * [chiptainers](https://github.com/nextthingco/chiptainers)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 3 | Open Issues: 0)*
 * [deborah](https://github.com/nextthingco/deborah)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 1 | Open Issues: 0)*
 * [debroofy](https://github.com/nextthingco/debroofy)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 1 | Open Issues: 0)*
 * [Dev_Kit-Hardware](https://github.com/nextthingco/Dev_Kit-Hardware)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [DIP-HDMI-PCB](https://github.com/nextthingco/DIP-HDMI-PCB)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 2 | Forks: 0 | Open Issues: 0)*
 * [DIP-VGA-PCB](https://github.com/nextthingco/DIP-VGA-PCB)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [DIPvendor](https://github.com/nextthingco/DIPvendor)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [docs](https://github.com/nextthingco/docs)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-03-05 | Stars: 12 | Forks: 10 | Open Issues: 13)*
 * [drone](https://github.com/nextthingco/drone)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [dtc](https://github.com/nextthingco/dtc)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [factory-debian](https://github.com/nextthingco/factory-debian)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2019-05-31 | Stars: 0 | Forks: 5 | Open Issues: 0)*
 * [factory-fixtures](https://github.com/nextthingco/factory-fixtures)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 1 | Open Issues: 0)*
 * [fbtft](https://github.com/nextthingco/fbtft)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [fcctui](https://github.com/nextthingco/fcctui)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 1 | Open Issues: 0)*
 * [fipit](https://github.com/nextthingco/fipit)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-04-16 | Stars: 1 | Forks: 1 | Open Issues: 0)*
 * [freshmeshdemo](https://github.com/nextthingco/freshmeshdemo)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [gadget-bash](https://github.com/nextthingco/gadget-bash)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 1 | Open Issues: 0)*
 * [gadget-buildroot](https://github.com/nextthingco/gadget-buildroot)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [Gadget-Docker-Examples](https://github.com/nextthingco/Gadget-Docker-Examples)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2019-07-29 | Stars: 0 | Forks: 2 | Open Issues: 0)*
 * [gadget-examples](https://github.com/nextthingco/gadget-examples)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 1 | Open Issues: 0)*
 * [gadget-inject-project](https://github.com/nextthingco/gadget-inject-project)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 1 | Open Issues: 0)*
 * [Gadget-OS](https://github.com/nextthingco/Gadget-OS)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 2 | Open Issues: 0)*
 * [gadget-shell](https://github.com/nextthingco/gadget-shell)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 1 | Open Issues: 0)*
 * [gadget-tutorial](https://github.com/nextthingco/gadget-tutorial)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [gadget-update-server](https://github.com/nextthingco/gadget-update-server)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 1 | Open Issues: 2)*
 * [gadgetcli](https://github.com/nextthingco/gadgetcli)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-06-01 | Stars: 1 | Forks: 4 | Open Issues: 0)*
 * [gadgetosd](https://github.com/nextthingco/gadgetosd)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 1 | Open Issues: 0)*
 * [golang-cmake-example](https://github.com/nextthingco/golang-cmake-example)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 2 | Open Issues: 0)*
 * [gonnman](https://github.com/nextthingco/gonnman)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [google-assistant-demo](https://github.com/nextthingco/google-assistant-demo)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 1 | Open Issues: 0)*
 * [ioquake3-gles](https://github.com/nextthingco/ioquake3-gles)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [kbuild](https://github.com/nextthingco/kbuild)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2024-06-19 | Stars: 1 | Forks: 1 | Open Issues: 0)*
 * [libOttoHardware](https://github.com/nextthingco/libOttoHardware)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [libsoc](https://github.com/nextthingco/libsoc)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [libusb](https://github.com/nextthingco/libusb)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [linux](https://github.com/nextthingco/linux)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 3 | Forks: 10 | Open Issues: 0)*
 * [logrus-gadget-formatter](https://github.com/nextthingco/logrus-gadget-formatter)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2019-07-29 | Stars: 0 | Forks: 2 | Open Issues: 0)*
 * [Mega-PocketCHIP](https://github.com/nextthingco/Mega-PocketCHIP)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [MegaCHIP-Hardware](https://github.com/nextthingco/MegaCHIP-Hardware)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [meta-raspberrypi](https://github.com/nextthingco/meta-raspberrypi)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [MMA8451_Library](https://github.com/nextthingco/MMA8451_Library)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [Network-Interfaces-Script](https://github.com/nextthingco/Network-Interfaces-Script)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [nextthingco.github.io](https://github.com/nextthingco/nextthingco.github.io)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-05 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [ntc-chip-buildroot](https://github.com/nextthingco/ntc-chip-buildroot)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [ntc-CHIP-mtd-utils](https://github.com/nextthingco/ntc-CHIP-mtd-utils)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [ntc-CHIP-SDK](https://github.com/nextthingco/ntc-CHIP-SDK)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [OttDate](https://github.com/nextthingco/OttDate)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [otto-creator](https://github.com/nextthingco/otto-creator)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [otto-gfx](https://github.com/nextthingco/otto-gfx)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [otto-gif-mode](https://github.com/nextthingco/otto-gif-mode)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [otto-menu](https://github.com/nextthingco/otto-menu)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [otto-network-setup](https://github.com/nextthingco/otto-network-setup)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [otto-runner](https://github.com/nextthingco/otto-runner)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [otto-utils](https://github.com/nextthingco/otto-utils)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [otto-wifi-setup](https://github.com/nextthingco/otto-wifi-setup)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [pocketchip-batt](https://github.com/nextthingco/pocketchip-batt)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-18 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [pocketchip-configs](https://github.com/nextthingco/pocketchip-configs)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-07-31 | Stars: 1 | Forks: 0 | Open Issues: 0)*
 * [PocketCHIP-Education](https://github.com/nextthingco/PocketCHIP-Education)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 1 | Forks: 0 | Open Issues: 0)*
 * [pocketChip-keyboardPatch](https://github.com/nextthingco/pocketChip-keyboardPatch)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [pocketchip-keypad-patch](https://github.com/nextthingco/pocketchip-keypad-patch)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [pocketchip-leafpad](https://github.com/nextthingco/pocketchip-leafpad)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [pocketchip-load](https://github.com/nextthingco/pocketchip-load)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [pocketchip-localdoc](https://github.com/nextthingco/pocketchip-localdoc)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 1 | Forks: 0 | Open Issues: 0)*
 * [PocketCHIP-Mechanical](https://github.com/nextthingco/PocketCHIP-Mechanical)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [pocketchip-onboard](https://github.com/nextthingco/pocketchip-onboard)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [PocketCHIP-PCB](https://github.com/nextthingco/PocketCHIP-PCB)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [pocketchip-pcmanfm](https://github.com/nextthingco/pocketchip-pcmanfm)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [PocketCHIP-pocket-home](https://github.com/nextthingco/PocketCHIP-pocket-home)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-07-31 | Stars: 1 | Forks: 0 | Open Issues: 0)*
 * [PockulusCHIP](https://github.com/nextthingco/PockulusCHIP)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [rocketchip](https://github.com/nextthingco/rocketchip)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [rpi-buildroot](https://github.com/nextthingco/rpi-buildroot)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [rtl81xxc](https://github.com/nextthingco/rtl81xxc)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [RTL8723BS](https://github.com/nextthingco/RTL8723BS)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [rtl8723bs_bt](https://github.com/nextthingco/rtl8723bs_bt)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [RTL8723DS](https://github.com/nextthingco/RTL8723DS)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [rtl8723ds_bt](https://github.com/nextthingco/rtl8723ds_bt)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2023-01-16 | Stars: 0 | Forks: 5 | Open Issues: 0)*
 * [sunxi-tools](https://github.com/nextthingco/sunxi-tools)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [ubonchi](https://github.com/nextthingco/ubonchi)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [wifi-connect](https://github.com/nextthingco/wifi-connect)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2020-01-19 | Stars: 0 | Forks: 1 | Open Issues: 0)*
 * [wifi-onboarding](https://github.com/nextthingco/wifi-onboarding)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [x-chip-deb-repo](https://github.com/nextthingco/x-chip-deb-repo)
-  A repository which builds the final output deb repo for chip/pocketchip *(Official, Archived)*
+  A repository which builds the final output deb repo for chip/pocketchip
+  *(Status: Official | Last updated: 2026-07-31 | Stars: 1 | Forks: 0 | Open Issues: 0)*
 * [x-chip-debootstrap](https://github.com/nextthingco/x-chip-debootstrap)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-02 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [x-chip-linux-deb](https://github.com/nextthingco/x-chip-linux-deb)
-  A repository for building linux for chip TheDebianWay *(Official, Archived)*
+  A repository for building linux for chip TheDebianWay
+  *(Status: Official | Last updated: 2026-07-31 | Stars: 1 | Forks: 0 | Open Issues: 0)*
 * [x-chip-os](https://github.com/nextthingco/x-chip-os)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-07-31 | Stars: 1 | Forks: 0 | Open Issues: 0)*
 * [x-chip-tools](https://github.com/nextthingco/x-chip-tools)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-07-31 | Stars: 8 | Forks: 0 | Open Issues: 0)*
 * [x-chip-uboot](https://github.com/nextthingco/x-chip-uboot)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-12 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 * [xf86-video-armsoc](https://github.com/nextthingco/xf86-video-armsoc)
-  No description provided. *(Official, Archived)*
+  No description provided.
+  *(Status: Official | Last updated: 2026-06-04 | Stars: 0 | Forks: 0 | Open Issues: 0)*
 
 </details>
 
