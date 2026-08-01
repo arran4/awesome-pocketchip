@@ -67,6 +67,10 @@ See [`docs/notes.md`](docs/notes.md#firmware-image-types) for a short explanatio
 
 ## Flashing Tools
 
+* [chip-flasher](https://github.com/nextthingco/chip-flasher)
+  The source code for the original Chrome-based web flasher. Useful for understanding how the FEL flashing process was implemented via WebUSB. *(Official)*
+* [sunxi-tools](https://github.com/nextthingco/sunxi-tools)
+  Fork of the essential Allwinner/Sunxi utilities used for interacting with the CPU over USB (FEL mode). This is a vital dependency for many flashing scripts. *(Official)*
 * [CHIP-tools - Project-chip-crumbs](https://github.com/Project-chip-crumbs/CHIP-tools)
 * [CHIP-SDK - ntc-chip-revived](https://github.com/ntc-chip-revived/CHIP-SDK)
 * [CHIP-SDK - Project-chip-crumbs](https://github.com/Project-chip-crumbs/CHIP-SDK)
@@ -95,6 +99,12 @@ See [`docs/notes.md`](docs/notes.md#fel-mode) for short local notes on FEL mode 
 
 ## Debian / Linux Repair
 
+* [x-chip-tools](https://github.com/nextthingco/x-chip-tools)
+  Scripts for creating and compiling a full Linux image from scratch (using debootstrap). Helpful for developers trying to build custom distros for the platform. *(Official)*
+* [x-chip-deb-repo](https://github.com/nextthingco/x-chip-deb-repo)
+  The repository responsible for building the final output Debian package repository for the CHIP/PocketCHIP ecosystem. Crucial for understanding how updates were originally packaged. *(Official)*
+* [CHIP-linux](https://github.com/nextthingco/CHIP-linux) and [linux](https://github.com/nextthingco/linux)
+  Next Thing Co's forks of the Linux kernel, containing all the specific device tree overlays and patches required to run on the R8 processor. *(Official)*
 * [JF Possibilities Debian Package Mirror](https://chip.jfpossibilities.com/chip/debian/)
 * [arran4/pocketchip-apt-rescue](https://github.com/arran4/pocketchip-apt-rescue)
   Community-maintained APT rescue proxy for the Next Thing Co. PocketC.H.I.P. and C.H.I.P.
@@ -107,6 +117,8 @@ See [`docs/notes.md`](docs/notes.md#fel-mode) for short local notes on FEL mode 
 
 ## Launchers and Interfaces
 
+* [PocketCHIP-pocket-home](https://github.com/nextthingco/PocketCHIP-pocket-home)
+  The original source code for the PocketC.H.I.P. interface (Marshmallow edition is a popular community fork of this). *(Official)*
 * [PocketCHIP Launcher (Marshmallow Edition)](https://github.com/o-marshmallow/PocketCHIP-pocket-home)
   Community-maintained fork of the PocketCHIP home screen with an APT repository and easier compilation.
 * [pocketchip-menu](https://github.com/omgmog/pocketchip-menu)
@@ -124,6 +136,12 @@ See [`docs/notes.md`](docs/notes.md#fel-mode) for short local notes on FEL mode 
 
 ## Hardware Documentation
 
+* [CHIP-Hardware](https://github.com/nextthingco/CHIP-Hardware)
+  Official schematics, board files, and pinouts for the original C.H.I.P. board. Critical for hardware hacking. *(Official)*
+* [PocketCHIP-PCB](https://github.com/nextthingco/PocketCHIP-PCB)
+  Official board layouts and schematics for the PocketC.H.I.P. chassis. *(Official)*
+* [DIP-HDMI-PCB](https://github.com/nextthingco/DIP-HDMI-PCB) and [DIP-VGA-PCB](https://github.com/nextthingco/DIP-VGA-PCB)
+  Schematics for the official HDMI and VGA adapters. Useful if trying to recreate them. *(Official)*
 * [PocketC.H.I.P. Documentation - JF Possibilities mirror](https://chip.jfpossibilities.com/docs/pocketchip.html)
 * [C.H.I.P. Documentation - JF Possibilities mirror](https://chip.jfpossibilities.com/docs/chip.html)
 * [PocketC.H.I.P. Documentation - docs.getchip.cc mirror](https://docs.getchip.cc/pocketchip)
@@ -136,6 +154,14 @@ See [`docs/notes.md`](docs/notes.md#fel-mode) for short local notes on FEL mode 
 
 ## Official and Historical Archives
 
+* [docs](https://github.com/nextthingco/docs)
+  The raw markdown files that generated the original official documentation site (docs.getchip.cc). Contains lots of information about GPIOs, I2C, and default passwords. *(Official)*
+* [gadgetcli](https://github.com/nextthingco/gadgetcli) and [Gadget-OS](https://github.com/nextthingco/Gadget-OS)
+  Tooling and the base OS for Gadget, an enterprise/IoT platform Next Thing Co. was working on. Highlights the later direction of the company. *(Official)*
+* [PocketCHIP-Education](https://github.com/nextthingco/PocketCHIP-Education)
+  Curriculum and guides targeted at using the PocketC.H.I.P. in a classroom setting. Offers good context on the educational goals of the device. *(Official)*
+* [pocketchip-localdoc](https://github.com/nextthingco/pocketchip-localdoc)
+  The local documentation shipped on the PocketC.H.I.P. itself, covering basics like connecting to WiFi and using the pre-installed software. *(Official)*
 * [NextThingCo GitHub archive](https://github.com/NextThingCo)
 * [Project-chip-crumbs GitHub organisation](https://github.com/Project-chip-crumbs)
 * [C.H.I.P. Flash Collection - Internet Archive](https://archive.org/details/C.h.i.p.FlashCollection)
@@ -146,38 +172,6 @@ See [`docs/notes.md`](docs/notes.md#fel-mode) for short local notes on FEL mode 
 * [The C.H.I.P. is dead... or is it?](https://www.jfpossibilities.com/imo/chip-dead/)
 
 ---
-
-
-### Key Official Repositories
-
-The [NextThingCo GitHub organisation](https://github.com/NextThingCo) contains 130+ repositories. Most of these are untouched forks or dead build scripts, but a few are highly valuable for preserving the hardware and software history of the device:
-
-* [chip-flasher](https://github.com/nextthingco/chip-flasher)
-  The source code for the original Chrome-based web flasher. Useful for understanding how the FEL flashing process was implemented via WebUSB. *(Official)*
-* [CHIP-Hardware](https://github.com/nextthingco/CHIP-Hardware)
-  Official schematics, board files, and pinouts for the original C.H.I.P. board. Critical for hardware hacking. *(Official)*
-* [docs](https://github.com/nextthingco/docs)
-  The raw markdown files that generated the original official documentation site (docs.getchip.cc). Contains lots of information about GPIOs, I2C, and default passwords. *(Official)*
-* [x-chip-tools](https://github.com/nextthingco/x-chip-tools)
-  Scripts for creating and compiling a full Linux image from scratch (using debootstrap). Helpful for developers trying to build custom distros for the platform. *(Official)*
-* [CHIP-linux](https://github.com/nextthingco/CHIP-linux) and [linux](https://github.com/nextthingco/linux)
-  Next Thing Co's forks of the Linux kernel, containing all the specific device tree overlays and patches required to run on the R8 processor. *(Official)*
-* [PocketCHIP-pocket-home](https://github.com/nextthingco/PocketCHIP-pocket-home)
-  The original source code for the PocketC.H.I.P. interface (Marshmallow edition is a popular community fork of this). *(Official)*
-* [PocketCHIP-PCB](https://github.com/nextthingco/PocketCHIP-PCB)
-  Official board layouts and schematics for the PocketC.H.I.P. chassis. *(Official)*
-* [DIP-HDMI-PCB](https://github.com/nextthingco/DIP-HDMI-PCB) and [DIP-VGA-PCB](https://github.com/nextthingco/DIP-VGA-PCB)
-  Schematics for the official HDMI and VGA adapters. Useful if trying to recreate them. *(Official)*
-* [gadgetcli](https://github.com/nextthingco/gadgetcli) and [Gadget-OS](https://github.com/nextthingco/Gadget-OS)
-  Tooling and the base OS for Gadget, an enterprise/IoT platform Next Thing Co. was working on. Highlights the later direction of the company. *(Official)*
-* [sunxi-tools](https://github.com/nextthingco/sunxi-tools)
-  Fork of the essential Allwinner/Sunxi utilities used for interacting with the CPU over USB (FEL mode). This is a vital dependency for many flashing scripts. *(Official)*
-* [PocketCHIP-Education](https://github.com/nextthingco/PocketCHIP-Education)
-  Curriculum and guides targeted at using the PocketC.H.I.P. in a classroom setting. Offers good context on the educational goals of the device. *(Official)*
-* [x-chip-deb-repo](https://github.com/nextthingco/x-chip-deb-repo)
-  The repository responsible for building the final output Debian package repository for the CHIP/PocketCHIP ecosystem. Crucial for understanding how updates were originally packaged. *(Official)*
-* [pocketchip-localdoc](https://github.com/nextthingco/pocketchip-localdoc)
-  The local documentation shipped on the PocketC.H.I.P. itself, covering basics like connecting to WiFi and using the pre-installed software. *(Official)*
 
 ## Community Hubs
 
