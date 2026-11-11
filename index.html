@@ -1,0 +1,31 @@
+---
+layout: null
+permalink: /
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description | escape }}">
+    <title>{{ site.title | escape }}</title>
+    <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to resources</a>
+    <header class="site-header">
+      <div class="site-header-inner">
+        <span class="site-name">PocketC.H.I.P. resources</span>
+        <a href="https://github.com/arran4/awesome-pocketchip">View on GitHub</a>
+      </div>
+    </header>
+    <main id="main" class="content">
+      {% capture readme %}{% include_relative README.md %}{% endcapture %}
+      {{ readme | markdownify }}
+    </main>
+    <footer class="site-footer">
+      Community-maintained, unofficial resource index.
+      <a href="https://github.com/arran4/awesome-pocketchip">Contribute on GitHub</a>.
+    </footer>
+  </body>
+</html>

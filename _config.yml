@@ -1,0 +1,7 @@
+title: Awesome PocketCHIP / C.H.I.P. Resources
+description: Community-maintained resources for the Next Thing Co. PocketC.H.I.P. and C.H.I.P.
+url: https://arran4.github.io
+baseurl: /awesome-pocketchip
+markdown: kramdown
+kramdown:
+  input: GFM
